@@ -1,4 +1,4 @@
-// 150202091  Melike AYDIN
+
 #include <stdio.h>
 #include <stdlib.h>
 #define SONSUZLUK 100000
